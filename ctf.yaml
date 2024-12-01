@@ -1,7 +1,7 @@
 general:
   ctf:
     name: Advent-of-Cyber-2024
-    description: ""
+    description: "Dive into the wonderful world of cyber security by engaging in festive beginner-friendly exercises every day in the lead-up to Christmas!"
     urls:
       - https://tryhackme.com/r/room/adventofcyber2024
     repo:

@@ -4,7 +4,7 @@
 - https://tryhackme.com/r/room/adventofcyber2024
 
 ## Description
-**
+*Dive into the wonderful world of cyber security by engaging in festive beginner-friendly exercises every day in the lead-up to Christmas!*
 
 
 # Results
