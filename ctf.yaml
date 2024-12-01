@@ -1,9 +1,33 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
-    description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+    name: Advent-of-Cyber-2024
+    description: ""
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://tryhackme.com/r/room/adventofcyber2024
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/Advent-of-Cyber-2024.git
+challenges:
+  - name: Day_1
+  - name: Day_2
+  - name: Day_3
+  - name: Day_4
+  - name: Day_5
+  - name: Day_6
+  - name: Day_7
+  - name: Day_8
+  - name: Day_9
+  - name: Day_10
+  - name: Day_11
+  - name: Day_12
+  - name: Day_13
+  - name: Day_14
+  - name: Day_15
+  - name: Day_16
+  - name: Day_17
+  - name: Day_18
+  - name: Day_19
+  - name: Day_20
+  - name: Day_21
+  - name: Day_22
+  - name: Day_23
+  - name: Day_24
