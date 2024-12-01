@@ -11,13 +11,13 @@ I'm given access to a webapp thats supposed to be a "youtube downloader", but th
 
 ## Questions
 1. ***Looks like the song.mp3 file is not what we expected! Run "exiftool song.mp3" in your terminal to find out the author of the song. Who is the author?:***
-    **Answer:** `Tyler Ramsbey`
+- **Answer:** `Tyler Ramsbey`
 
 2. ***The malicious PowerShell script sends stolen info to a C2 server. What is the URL of this C2 server?***
-    **Answer: ** `http://papash3ll.thm/data`
+- **Answer: ** `http://papash3ll.thm/data`
 
 3. ***Who is M.M? Maybe his Github profile page would provide clues?***
-    **Answer: ** `Mayor Malware`
+- **Answer: ** `Mayor Malware`
 
 4. ***What is the number of commits on the GitHub repo where the issue was raised?***
-    **Answer: ** `1`
+- **Answer: ** `1`
