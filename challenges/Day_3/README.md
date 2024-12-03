@@ -8,9 +8,7 @@
 - **Answer:** `/media/images/rooms/shell.php`
 
 2. ***BLUE: What IP address accessed the web shell?***
-*Answer format: /directory/directory/directory/filename.php*
 - **Answer:** `10.11.83.34`
 
 3. ***RED: What is the contents of the flag.txt?***
-*Answer format: /directory/directory/directory/filename.php*
 - **Answer:** `THM{Gl1tch_Was_H3r3}`
