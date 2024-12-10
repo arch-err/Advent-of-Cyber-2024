@@ -13,7 +13,7 @@
 **Team:** none
 
 
-**Flags:** (7/24)
+**Flags:** (9/24)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -27,8 +27,8 @@
 - [x] [Day_5](challenges/Day_5)
 - [x] [Day_6](challenges/Day_6)
 - [x] [Day_7](challenges/Day_7)
-- [ ] [Day_8](challenges/Day_8)
-- [ ] [Day_9](challenges/Day_9)
+- [x] [Day_8](challenges/Day_8)
+- [x] [Day_9](challenges/Day_9)
 - [ ] [Day_10](challenges/Day_10)
 - [ ] [Day_11](challenges/Day_11)
 - [ ] [Day_12](challenges/Day_12)
